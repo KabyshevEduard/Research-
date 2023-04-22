@@ -1,0 +1,521 @@
+<svg viewBox="270 -160 780 1010" width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<style>.vertex { font-family: Consolas } .edge { font-family: Consolas } .text { font-family: Consolas }</style>
+    <path d="M 300 200L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 -80" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 -30" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 20" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 120" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 170" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 220" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 -80" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 -30" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 20" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 120" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 170" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 220" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 -80" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 -30" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 20" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 120" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 170" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 220" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 -80" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 -30" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 20" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 120" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 170" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 220" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 250L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 250L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 250L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 250L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 100L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 150L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 200L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 250L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 270" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 320" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 370" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 420" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 470" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 520" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 570" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 620" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 670" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 720" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 770" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 200L 550 820" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 270" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 320" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 300 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 300 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 470" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 520" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 570" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 620" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 670" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 720" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 770" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 250L 550 820" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 270" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 300 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 300 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 420" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 470" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 520" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 570" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 620" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 670" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 720" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 770" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 300L 550 820" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 270" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 320" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 370" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 420" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 470" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 520" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 570" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 620" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 670" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 720" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 770" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 350L 550 820" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 -80" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 -30" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 20" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 70" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 120" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 170" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 220" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 270" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 320" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 370" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 420" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 470" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 520" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 570" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 620" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 670" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 720" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 770" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 400L 550 820" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 300 450L 550 -130" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 300 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 300L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 350L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 400L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 450L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 500L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 550L 1020 310" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 270L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 320L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 550 370" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 370L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 420L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 470L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 520L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 570L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 620L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 670L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 720L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 770L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 820L 800 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 100L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 300L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 910 350L 800 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 150L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 200L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 300L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 350L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 400L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 450L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 500L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 100" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 150" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 200" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 250" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 300" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 350" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 800 550L 910 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 220L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 170L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 120L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 70L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 20L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -30L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -80L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 550" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 500" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 450" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <path d="M 550 -130L 800 400" fill="none" stroke="#cccccc" stroke-width="2"></path>
+    <circle cx="300" cy="200" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="200" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">E</text>
+    <circle cx="300" cy="250" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="250" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">σпр</text>
+    <circle cx="300" cy="300" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="300" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">σт</text>
+    <circle cx="300" cy="350" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="350" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">Tпл</text>
+    <circle cx="550" cy="-130" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="-130" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">1</text>
+    <circle cx="550" cy="-80" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">2</text>
+    <circle cx="550" cy="-30" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="-30" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">3</text>
+    <circle cx="550" cy="20" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="20" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">4</text>
+    <circle cx="550" cy="70" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="70" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">5</text>
+    <circle cx="550" cy="120" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="120" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">6</text>
+    <circle cx="550" cy="170" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="170" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">7</text>
+    <circle cx="550" cy="220" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="220" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">8</text>
+    <circle cx="800" cy="100" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="100" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">1</text>
+    <circle cx="800" cy="150" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="150" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">2</text>
+    <circle cx="800" cy="200" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="200" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">3</text>
+    <circle cx="800" cy="250" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="250" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">4</text>
+    <circle cx="800" cy="300" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="300" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">5</text>
+    <circle cx="800" cy="350" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="350" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">6</text>
+    <circle cx="910" cy="100" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="100" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">1</text>
+    <circle cx="910" cy="150" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="150" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">2</text>
+    <circle cx="910" cy="200" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="200" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">3</text>
+    <circle cx="910" cy="250" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="250" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">4</text>
+    <circle cx="1020" cy="310" r="20" fill="#ff9800" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1020" y="310" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">HB</text>
+    <circle cx="800" cy="400" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="400" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">7</text>
+    <circle cx="800" cy="450" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="450" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">8</text>
+    <circle cx="800" cy="500" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="500" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">9</text>
+    <circle cx="800" cy="550" r="20" fill="#2196f3" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="800" y="550" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">10</text>
+    <circle cx="910" cy="300" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="300" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">5</text>
+    <circle cx="910" cy="350" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="350" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">6</text>
+    <circle cx="910" cy="400" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="400" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">7</text>
+    <circle cx="910" cy="450" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="450" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">8</text>
+    <circle cx="910" cy="500" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="500" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">9</text>
+    <circle cx="910" cy="550" r="20" fill="#009688" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="910" y="550" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">10</text>
+    <circle cx="300" cy="400" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="400" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">ρ</text>
+    <circle cx="300" cy="450" r="20" fill="#f44336" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="300" y="450" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">с</text>
+    <circle cx="550" cy="270" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="270" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">9</text>
+    <circle cx="550" cy="320" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="320" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">10</text>
+    <circle cx="550" cy="370" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="370" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">11</text>
+    <circle cx="550" cy="420" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="420" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">12</text>
+    <circle cx="550" cy="470" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="470" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">13</text>
+    <circle cx="550" cy="520" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="520" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">14</text>
+    <circle cx="550" cy="570" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="570" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">15</text>
+    <circle cx="550" cy="620" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="620" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">16</text>
+    <circle cx="550" cy="670" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="670" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">17</text>
+    <circle cx="550" cy="720" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="720" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">18</text>
+    <circle cx="550" cy="770" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="770" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">19</text>
+    <circle cx="550" cy="820" r="20" fill="#9c27b0" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="550" y="820" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="18px">20</text>
+</svg>
