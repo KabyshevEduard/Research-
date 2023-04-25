@@ -26,7 +26,7 @@ def main():
     df_1 = open_dates('C:/Users/Эдуард/Desktop/задание кафедры/train.xlsx', 0)
     df_2 = open_dates('C:/Users/Эдуард/Desktop/задание кафедры/test.xlsx', 0)
     df = pd.concat([df_1, df_2])
-    #df = df[(((df['Hardness, HB'] < df['Hardness, HB'].quantile(0.75)) & (df['Hardness, HB'] > df['Hardness, HB'].quantile(0.25))))]
+    df = df[(((df['Youngs modulus, GPa '] < df['Youngs modulus, GPa '].quantile(0.8)) & (df['Ultimate strength, GPa'] < df['Ultimate strength, GPa'].quantile(0.75))))]
     x_young = df['Youngs modulus, GPa '].values
     y_ultimate = df['Ultimate strength, GPa'].values
     z_hardness = df['Hardness, HB'].values
